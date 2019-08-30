@@ -11,3 +11,5 @@ It was also a test run in sending emails to my gmail account
 which is why GMAIL_USERNAME and GMAIL_PASSWORD should be set in the mangastream_crawler.py file or with environment variables.
 
 ## Have Fun and happy reading
+
+p.s. Might expand this small project into a larger webscraper that scrapes several websites depending on interest, stay tuned
